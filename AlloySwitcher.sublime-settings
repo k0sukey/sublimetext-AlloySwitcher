@@ -1,0 +1,8 @@
+{
+	"controller_dir": "controllers",
+	"view_dir": "views",
+	"style_dir": "styles",
+	"controller_ext": "js",
+	"view_ext": "xml",
+	"style_ext": "tss"
+}

@@ -1,5 +1,7 @@
 [
     { "keys": ["alt+c"], "command": "alloy_switcher", "args": { "type": "controllers" } },
     { "keys": ["alt+v"], "command": "alloy_switcher", "args": { "type": "views" } },
-    { "keys": ["alt+s"], "command": "alloy_switcher", "args": { "type": "styles" } }
+    { "keys": ["alt+s"], "command": "alloy_switcher", "args": { "type": "styles" } },
+    { "keys": ["alt+i"], "command": "alloy_switcher", "args": { "type": "ios" } },
+    { "keys": ["alt+a"], "command": "alloy_switcher", "args": { "type": "android" } }
 ]
